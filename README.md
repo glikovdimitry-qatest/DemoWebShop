@@ -1,2 +1,13 @@
 # DemoWebShop
-Test project for https://demowebshop.tricentis.com
+A training project focused on automated testing for the website "Demo Web Shop".
+
+Project objective: To practice on how to create, execute, and maintain automated UI tests using Python.
+
+Application under test: https://demowebshop.tricentis.com
+
+Technologies used:
+-Python — programming language
+-Selenium WebDriver — browser automation
+-pytest — testing framework
+-Google Chrome — browser for test execution
+-Git / GitHub — version control system
